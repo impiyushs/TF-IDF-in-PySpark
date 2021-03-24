@@ -7,3 +7,4 @@ The goal of this programming assignment is to develop a simple search engine to 
 3. Develop a system for users to submit queries to the TF-IDF index and retrieve
 relevant results
 4. Examine the output on English Wikipedia dump
+5. It is developed on Google colab
