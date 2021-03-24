@@ -1,4 +1,4 @@
-# TF-IDF-in-PySpark
+# TF-IDF in PySpark
 TF-IDF in PySpark on dataset from latest updates made on selected articles in English Wikipedia corpus
 TF-IDF on Wikipedia:
 The goal of this programming assignment is to develop a simple search engine to get relevant documents based on simple TF-IDF measures. The goals of this assignment are:
